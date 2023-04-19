@@ -24,10 +24,10 @@ Blood Bank Donation System is a php based web project with both admin and user l
 
 10. After importing successfully.
 
-11. Open any browser and type http://localhost/Blood-Bank-&-Donation-Management-System/home.php to open User layout.
+11. Open any browser and type http://localhost/Blood-Bank-and-Donation-Management-System/home.php to open User layout.
      
 # Admin Panel
-   Open any browser and type http://localhost/Blood-Bank-&-Donation-Management-System/admin/login.php to open Admin Login Panel.
+   Open any browser and type http://localhost/Blood-Bank-and-Donation-Management-System/admin/login.php to open Admin Login Panel.
    
    Enter Below Credentials to login to the Admin Panel.<br>
    <b> Username = </b> saran05<br>
