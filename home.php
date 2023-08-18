@@ -32,7 +32,7 @@ include('head.php'); ?>
     <!-- Indicators -->
     <ul class="carousel-indicators">
       <li data-target="#demo" data-slide-to="0" class="active"></li>
-      <li data-target="#demo" data-slide-to="1"></li>
+      <li data-target="#demo" data-slide-to="1"></li> 
     </ul>
 
     <!-- The slideshow -->
