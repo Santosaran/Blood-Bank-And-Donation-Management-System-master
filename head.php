@@ -12,7 +12,7 @@
   width:100%;
   padding: 10px 5px;
   color:#FF0404  ;
-}
+} 
 
 /* Style the header links */
 .header a {
