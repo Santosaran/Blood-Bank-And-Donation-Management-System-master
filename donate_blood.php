@@ -12,7 +12,7 @@
 </head> 
 
 <body> 
-<?php
+<?php 
 $active ='donate';
  include('head.php') ?>
 
